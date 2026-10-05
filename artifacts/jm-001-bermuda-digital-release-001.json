@@ -1,0 +1,16 @@
+{
+  "artifact_id": "JM-001-BERMUDA-DIGITAL-RELEASE-001",
+  "display_name": "JM-001 Bermuda — Customer Package (Digital Release 001)",
+  "kind": "product",
+  "lane": "Journals",
+  "status": "LOCKED",
+  "file_name": "JM-001-BERMUDA_customer-package_2026-09-08-digital-release-001.zip",
+  "sha256": "1af230c274dfa3dcaab95ebe92ea6844336ffbccb54b794563e874d6aff2b594",
+  "size_bytes": 46769210,
+  "md5": "960cdd4b5bbf582bc5181948d3f81f5d",
+  "contents_summary": "Sally Bermuda complete journal customer package: 00_SALLY_BERMUDA_FINAL_ACTUAL_SIZE_PRINT_QUEUE.pdf plus manifests and QA/certification records.",
+  "distribution": "Free download from https://fold-blueprint-base.base44.app",
+  "certified_date": "2026-09-08",
+  "hash_reverified_date": "2026-10-05",
+  "hash_reverified_method": "SHA-256 recomputed from the stored certified binary and compared to the Master Production Registry row"
+}
