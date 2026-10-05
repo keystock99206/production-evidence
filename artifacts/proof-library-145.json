@@ -1,0 +1,17 @@
+{
+  "artifact_id": "PROOF-LIBRARY-145",
+  "display_name": "Composition Engine v1 — Proof Library 145",
+  "kind": "proof",
+  "lane": "Specialty Pages",
+  "status": "LOCKED",
+  "file_name": "PROOF-LIBRARY-145.pdf",
+  "sha256": "6279997a6160eb99e3d75c003bd42dd6517a2b084fea47f1e60a7ef645eca848",
+  "size_bytes": 1070508,
+  "contents_summary": "553-page proof document composed from the certified catalog: all 145 engineered mechanisms with their how-to instruction finals. Every page verified bit-exact against the 822-page factory master.",
+  "factory_master_sha256": "8928e75b6832c2e9be8e34b5489c83b95883fec865ff2ecfadb7d874bb66e974",
+  "mechanism_count": 145,
+  "page_count": 553,
+  "certified_date": "2026-10-05",
+  "hash_reverified_date": "2026-10-05",
+  "hash_reverified_method": "SHA-256 recomputed from the stored proof binary and compared to the registry record"
+}
